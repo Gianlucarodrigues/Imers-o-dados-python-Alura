@@ -17,7 +17,7 @@ Desenvolver uma aplicação que permita:
 - **Plotly**
   
 ## 📂 Estrutura do Projeto
-├── Aula_04 # Arquivo principal do dashboard
-├── requirements.txt # Dependências do projeto
-├── data/ # Arquivos de dados
-└── README.md # Documentação
+- Aula_04 # Arquivo principal do dashboard
+- requirements.txt # Dependências do projeto
+- data/ # Arquivos de dados
+- README.md # Documentação
